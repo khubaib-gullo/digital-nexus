@@ -55,7 +55,7 @@ const HeroSection: React.FC = () => {
 						SECTION A-1: RECEPTION
 					</div>
 
-					<h1 className="text-6xl md:text-8xl font-bold font-mono text-white mb-6 tracking-tighter shadow-blueprint-glow drop-shadow-[0_0_10px_rgba(14,165,233,0.5)]">
+					<h1 className="text-4xl md:text-8xl sm:text-6xl font-bold font-mono text-white mb-6 tracking-tighter shadow-blueprint-glow drop-shadow-[0_0_10px_rgba(14,165,233,0.5)]">
 						Digital<span className="text-blueprint-glow">Nexus</span>
 					</h1>
 
